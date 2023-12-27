@@ -1,16 +1,16 @@
 package com.demo;
-
+//Problem Statement:https://leetcode.com/problems/counting-words-with-a-given-prefix/
 public class PrefixCount {
     public static void main(String[] args) {
         // Example 1
         String[] words1 = {"pay", "attention", "practice", "attend"};
         String pref1 = "at";
-        System.out.println(prefixCount(words1, pref1)); // Output: 2
+        System.out.println(prefixCount(words1, pref1));
 
         // Example 2
         String[] words2 = {"leetcode", "win", "loops", "success"};
         String pref2 = "code";
-        System.out.println(prefixCount(words2, pref2)); // Output: 0
+        System.out.println(prefixCount(words2, pref2)); 
     }
 
     public static int prefixCount(String[] words, String pref) {
