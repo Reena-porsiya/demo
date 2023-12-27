@@ -1,6 +1,6 @@
 package com.demo;
 
-public class SortColors {
+
 	
 	
 	
@@ -12,4 +12,4 @@ public class SortColors {
 	
 	
 
-}
+
