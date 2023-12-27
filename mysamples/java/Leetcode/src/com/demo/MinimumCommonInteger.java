@@ -1,5 +1,5 @@
 package com.demo;
-
+//Problem Statement:https://leetcode.com/problems/minimum-common-value/
 public class MinimumCommonInteger {
 
     public static int minimumCommonInteger(int[] nums1, int[] nums2) {
