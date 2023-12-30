@@ -1,3 +1,4 @@
+
 package com.demo;
 //link:https://leetcode.com/problems/remove-outermost-parentheses/
 

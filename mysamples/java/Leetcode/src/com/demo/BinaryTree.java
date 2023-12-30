@@ -7,6 +7,7 @@ class Node{
 	Node left;
 	Node right;
 
+	
 public Node(int data) {
 	this.data = data;
 	

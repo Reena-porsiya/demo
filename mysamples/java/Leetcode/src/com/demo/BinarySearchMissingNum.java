@@ -4,6 +4,7 @@ package com.demo;
 
 import java.util.Arrays;
 
+
 public class BinarySearchMissingNum {
 
 	public static int missingNumber(int[] nums) {

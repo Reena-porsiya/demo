@@ -16,6 +16,7 @@ public class ReversedLinkedList {
         }
     }
 
+    
     Node head;
 
     Node reverse(Node node) {

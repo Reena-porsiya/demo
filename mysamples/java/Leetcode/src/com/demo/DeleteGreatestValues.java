@@ -39,3 +39,4 @@ public class DeleteGreatestValues {
         System.out.println("Example 2: " + maxScore(grid2));
     }
 }
+
