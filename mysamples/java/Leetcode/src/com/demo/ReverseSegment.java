@@ -27,6 +27,7 @@ public class ReverseSegment {
         }
      // Convert the modified character array back to a string
         return new String(wordArray);
+        
     }
 
     private static void reverseArray(char[] arr, int start, int end) {
