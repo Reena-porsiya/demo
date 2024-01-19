@@ -16,9 +16,9 @@ public class WordPairs {
         return count;
     }
 
-    private static boolean isPair(String word1, String word2) {
+    public static boolean isPair(String word1, String word2) {
         
-        return word1.equals(new StringBuilder(word2).reverse().toString());
+        return word1.equals( new StringBuilder(word2).reverse().toString());
     }
 
     public static void main(String[] args) {
